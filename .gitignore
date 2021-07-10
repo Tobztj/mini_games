@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+**/.DS_Store
+
+# Python file
+**/test.py
 
 # Distribution / packaging
 .Python
@@ -104,6 +108,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.idea/
 env/
 venv/
 ENV/
