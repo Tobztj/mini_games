@@ -64,4 +64,5 @@ def display_hangman(turns):
                    -
                    """
     ]
-    return stages[-turns]
+    return stages[turns]
+
