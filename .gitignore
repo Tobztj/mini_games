@@ -9,6 +9,7 @@ __pycache__/
 
 # Python file
 **/test.py
+**/file_path.py
 
 # Distribution / packaging
 .Python
